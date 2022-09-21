@@ -1,4 +1,4 @@
-# ImageClassification
+# Image Classification
 As an introduction, here's the general overview of the project that I did over the course of my 3 months internship at SG-EDTS.
 
 One problem encountered over the course of the project was that there was 2 types of KTP (Kartu Tanda Penduduk or Residence Identification Card in English),  either it was Fotocopy or Real. As a result, this creates an issue in the identification on whether or not a buyer from an application of the business client is real due to the algorithm unable to determine the difference between a real and fotocopy image, seen in the image below.
